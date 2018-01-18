@@ -1,10 +1,4 @@
-#JWT on PHP
- ---
- 
-##Disclaimer
-
-By no means should this code ever be used in production ready applications nor be executed on production servers. No security checks and/or validations were enforced. This code was written for educational purposes only, having the scope to showcase basic functionality. Performance, efficiency, security, or reusability were not a priority.
-
+# Datenplattform Identifier Service
 ##Install
 
 Run `composer install` to install all the library dependencies.
